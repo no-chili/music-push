@@ -18,10 +18,6 @@ export default function Info(props:Props) {
               专辑: {album}
             </li>
           </div>
-          {/* <div className='absolute w-full top-0 h-32 bg-gradient-to-b from-teal-400'>
-          </div>
-          <div className='absolute w-full bottom-0 h-32 bg-gradient-to-t from-teal-400'>
-          </div> */}
         </div>
       </div>
     </>
